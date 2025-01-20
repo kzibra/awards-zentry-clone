@@ -2,7 +2,7 @@ import gsap from "gsap";
 import AnimatedTitle from "./AnimatedTitle";
 import { useRef } from "react";
 import RoundedCorners from "./RoundedCorners";
-import Button from "./button";
+import Button from "./Button";
 
 const Story = () => {
   const frameRef = useRef(null);
